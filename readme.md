@@ -93,7 +93,7 @@ This will create the required tables (`Matches`, `Bets`, etc.) in the database.
 Once everything is set up, start the server with:
 
 ```bash
-npm start
+npm run dev
 ```
 
 By default, the application will run on port 3000 (or the port specified in your `.env` file).
